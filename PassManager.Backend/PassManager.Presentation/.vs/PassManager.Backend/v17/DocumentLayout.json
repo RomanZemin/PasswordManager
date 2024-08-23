@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1629600A-7869-4619-9E5B-1CD04E6EE322}|..\\PassManager.Tests\\PassManager.Tests.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1629600A-7869-4619-9E5B-1CD04E6EE322}|..\\PassManager.Tests\\PassManager.Tests.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.tests\\passmanager\\commands\\deletepasswordscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1629600A-7869-4619-9E5B-1CD04E6EE322}|..\\PassManager.Tests\\PassManager.Tests.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.tests\\passmanager\\commands\\addpasswordscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1629600A-7869-4619-9E5B-1CD04E6EE322}|..\\PassManager.Tests\\PassManager.Tests.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.tests\\passmanager\\commands\\getpasswordscommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1629600A-7869-4619-9E5B-1CD04E6EE322}|..\\PassManager.Tests\\PassManager.Tests.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.tests\\passmanager\\contollers\\basecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,33 +90,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Contollers\\BaseControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\PassManager.Tests\\PassManager\\Contollers\\BaseControllerTests.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Contollers\\BaseControllerTests.cs",
+              "RelativeToolTip": "..\\PassManager.Tests\\PassManager\\Contollers\\BaseControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:09:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeletePasswordsCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\DeletePasswordsCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\PassManager.Tests\\PassManager\\Commands\\DeletePasswordsCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\DeletePasswordsCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\PassManager.Tests\\PassManager\\Commands\\DeletePasswordsCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:05:19.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPasswordsCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\AddPasswordsCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\PassManager.Tests\\PassManager\\Commands\\AddPasswordsCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\AddPasswordsCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\PassManager.Tests\\PassManager\\Commands\\AddPasswordsCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:05:13.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PassManager.Tests",
+              "Title": "GetPasswordsCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\GetPasswordsCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\PassManager.Tests\\PassManager\\Commands\\GetPasswordsCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager\\Commands\\GetPasswordsCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\PassManager.Tests\\PassManager\\Commands\\GetPasswordsCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:04:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassManager.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager.Tests.csproj",
               "RelativeDocumentMoniker": "..\\PassManager.Tests\\PassManager.Tests.csproj",
               "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\PassManager.Tests.csproj",
               "RelativeToolTip": "..\\PassManager.Tests\\PassManager.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T11:38:07.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T11:38:07.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\PassManager.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\PassManager.Tests\\UnitTest1.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAkwEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T11:31:55.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -115,12 +162,11 @@
               "RelativeToolTip": "launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T10:56:47.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:56:47.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -128,12 +174,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T10:56:05.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:56:05.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PassManager.WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.csproj",
               "RelativeDocumentMoniker": "PassManager.WebAPI.csproj",
@@ -141,12 +186,11 @@
               "RelativeToolTip": "PassManager.WebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T10:32:42.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:32:42.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "IPasswordRepository.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
@@ -157,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -165,12 +209,11 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T10:06:39.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:06:39.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -178,12 +221,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T10:06:37.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:06:37.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PasswordController.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Controllers\\PasswordController.cs",
               "RelativeDocumentMoniker": "Controllers\\PasswordController.cs",
@@ -191,12 +233,11 @@
               "RelativeToolTip": "Controllers\\PasswordController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T10:05:20.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T10:05:20.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PasswordRecord.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Domain\\Entities\\PasswordRecord.cs",
               "RelativeDocumentMoniker": "..\\..\\PassManager.Domain\\Entities\\PasswordRecord.cs",
@@ -207,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "PasswordRepository.cs",
               "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
