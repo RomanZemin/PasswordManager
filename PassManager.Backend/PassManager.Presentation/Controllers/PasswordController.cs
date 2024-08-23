@@ -2,7 +2,7 @@
 using PassManager.Application.Interfaces;
 using PassManager.Domain.Entities;
 
-namespace PasswordManager.Controllers
+namespace PassManager.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -32,7 +32,7 @@ namespace PasswordManager.Controllers
         /// <param name="passwordRecord">The password record to add.</param>
         /// <returns>The created password record.</returns>
         [HttpPost]
-        public async Task<ActionResult<PasswordRecord>> PostPasswordRecord(PasswordRecord passwordRecord)
+        public async Task<ActionResult<PasswordRecord>> AddPassword(PasswordRecord passwordRecord)
         {
             if (await _repository.PasswordExistsAsync(passwordRecord.Name))
             {
