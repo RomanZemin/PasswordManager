@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dc3b63ce-634d-4198-81ae-e3d785dd1fad</UserSecretsId>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>C:\Users\mvide\source\repos\PasswordManager\PassManager.Backend\PassManager.WebAPI.xml</DocumentationFile>
+    <StartupObject>Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PassManager.Application\PassManager.Application.csproj" />
+    <ProjectReference Include="..\PassManager.Infrastructure\PassManager.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

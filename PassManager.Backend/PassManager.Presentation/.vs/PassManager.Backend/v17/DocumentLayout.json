@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\passmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:passmanager.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\passmanager.webapi.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:passmanager.webapi.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|c:\\users\\mvide\\source\\repos\\passwordmanager\\passmanager.backend\\passmanager.presentation\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}|PassManager.WebAPI.csproj|solutionrelative:controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Application\\Interfaces\\IPasswordRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Domain\\Entities\\PasswordRecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Infrastructure\\Data\\PasswordRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T10:56:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PassManager.WebAPI.xml",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.xml",
+              "RelativeDocumentMoniker": "PassManager.WebAPI.xml",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.xml",
+              "RelativeToolTip": "PassManager.WebAPI.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-23T10:56:07.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T10:56:05.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassManager.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.csproj",
+              "RelativeDocumentMoniker": "PassManager.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.csproj",
+              "RelativeToolTip": "PassManager.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T10:32:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
+              "RelativeToolTip": "..\\..\\PassManager.Application\\Interfaces\\IPasswordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:08:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:06:39.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:06:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "Controllers\\PasswordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:05:20.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordRecord.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Domain\\Entities\\PasswordRecord.cs",
+              "RelativeDocumentMoniker": "..\\..\\PassManager.Domain\\Entities\\PasswordRecord.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Domain\\Entities\\PasswordRecord.cs",
+              "RelativeToolTip": "..\\..\\PassManager.Domain\\Entities\\PasswordRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:25:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
+              "ToolTip": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
+              "RelativeToolTip": "..\\..\\PassManager.Infrastructure\\Data\\PasswordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:22:45.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

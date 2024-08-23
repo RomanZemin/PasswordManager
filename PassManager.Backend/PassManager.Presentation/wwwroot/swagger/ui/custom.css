@@ -1,0 +1,25 @@
+.swagger-section #header {
+    border-bottom: 1px solid #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Segoe UI Light","Segoe WP Light","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif;
+    background-color: black;
+}
+
+    .swagger-section #header h1 {
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+
+</code >
+
+<i > Тело index.html</i >
+<source lang="css" > <body class="swagger-section" >
+<div id="header" >
+<h1 > ToDo API Documentation</h1 >
+</div >
+
+<div id="message-bar" class="swagger-ui-wrap" data-sw-translate > </div >
+<div id="swagger-ui-container" class="swagger-ui-wrap" > </div >
+</body >

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PassManager.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PasswordManager.Controllers.PasswordController.GetPasswords">
+            <summary>
+            Retrieves a list of all password records.
+            </summary>
+            <returns>A list of password records.</returns>
+        </member>
+        <member name="M:PasswordManager.Controllers.PasswordController.PostPasswordRecord(PassManager.Domain.Entities.PasswordRecord)">
+            <summary>
+            Adds a new password record.
+            </summary>
+            <param name="passwordRecord">The password record to add.</param>
+            <returns>The created password record.</returns>
+        </member>
+    </members>
+</doc>

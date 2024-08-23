@@ -1,0 +1,15 @@
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\bin\Debug\net8.0\PassManager.Application.deps.json
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\bin\Debug\net8.0\PassManager.Application.dll
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\bin\Debug\net8.0\PassManager.Application.pdb
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\bin\Debug\net8.0\PassManager.Domain.dll
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\bin\Debug\net8.0\PassManager.Domain.pdb
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.csproj.AssemblyReference.cache
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.AssemblyInfoInputs.cache
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.AssemblyInfo.cs
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassMana.FB7E5B76.Up2Date
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.dll
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\refint\PassManager.Application.dll
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\PassManager.Application.pdb
+C:\Users\mvide\source\repos\PasswordManager\PassManager.Application\obj\Debug\net8.0\ref\PassManager.Application.dll

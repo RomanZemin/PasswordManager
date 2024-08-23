@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\swagger\\ui\\custom.css",
+      "PackagePath": "staticwebassets\\swagger\\ui\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\swagger\\ui\\index.html",
+      "PackagePath": "staticwebassets\\swagger\\ui\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PassManager.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PassManager.WebAPI.props",
+      "PackagePath": "build\\PassManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PassManager.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\PassManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PassManager.WebAPI.props",
+      "PackagePath": "buildTransitive\\PassManager.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

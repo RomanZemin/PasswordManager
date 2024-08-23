@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassManager.WebAPI", "PassManager.WebAPI.csproj", "{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{84BDFEEB-95CF-4108-A811-8F69B6C3AA2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{3B6C59ED-E92C-4B53-9C45-D9A75BDC2248}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{193F47BD-FA9A-4D8F-8545-F0BA0BF8B704}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{732A8AA7-C35F-4CAE-8F96-7F2897B24F2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassManager.Infrastructure", "..\PassManager.Infrastructure\PassManager.Infrastructure.csproj", "{4CEB201C-9702-4D12-B5AC-708215CD0527}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassManager.Application", "..\PassManager.Application\PassManager.Application.csproj", "{4D268F25-0113-4F8E-8F84-43CEBE818263}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassManager.Domain", "..\PassManager.Domain\PassManager.Domain.csproj", "{604600FA-62A4-4495-A348-C5C3197493CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEB201C-9702-4D12-B5AC-708215CD0527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEB201C-9702-4D12-B5AC-708215CD0527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEB201C-9702-4D12-B5AC-708215CD0527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEB201C-9702-4D12-B5AC-708215CD0527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D268F25-0113-4F8E-8F84-43CEBE818263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D268F25-0113-4F8E-8F84-43CEBE818263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D268F25-0113-4F8E-8F84-43CEBE818263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D268F25-0113-4F8E-8F84-43CEBE818263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604600FA-62A4-4495-A348-C5C3197493CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604600FA-62A4-4495-A348-C5C3197493CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604600FA-62A4-4495-A348-C5C3197493CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604600FA-62A4-4495-A348-C5C3197493CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3598FC0E-161C-4EAC-9BE0-8381B4D0CE9D} = {193F47BD-FA9A-4D8F-8545-F0BA0BF8B704}
+		{4CEB201C-9702-4D12-B5AC-708215CD0527} = {3B6C59ED-E92C-4B53-9C45-D9A75BDC2248}
+		{4D268F25-0113-4F8E-8F84-43CEBE818263} = {84BDFEEB-95CF-4108-A811-8F69B6C3AA2B}
+		{604600FA-62A4-4495-A348-C5C3197493CB} = {84BDFEEB-95CF-4108-A811-8F69B6C3AA2B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707A8B6E-2E82-48DF-9FDF-50126B6C62A6}
+	EndGlobalSection
+EndGlobal

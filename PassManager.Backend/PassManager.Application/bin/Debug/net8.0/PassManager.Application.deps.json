@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PassManager.Application/1.0.0": {
+        "dependencies": {
+          "PassManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PassManager.Application.dll": {}
+        }
+      },
+      "PassManager.Domain/1.0.0": {
+        "runtime": {
+          "PassManager.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PassManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PassManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

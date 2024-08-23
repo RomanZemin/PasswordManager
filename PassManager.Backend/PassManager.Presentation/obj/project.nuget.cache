@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zPVd/u5qNrk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Backend\\PassManager.Presentation\\PassManager.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.1\\swashbuckle.aspnetcore.6.7.1.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.1\\swashbuckle.aspnetcore.swagger.6.7.1.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.1\\swashbuckle.aspnetcore.swaggergen.6.7.1.nupkg.sha512",
+    "C:\\Users\\mvide\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.1\\swashbuckle.aspnetcore.swaggerui.6.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

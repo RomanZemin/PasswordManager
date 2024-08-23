@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "uCk1RwN3qUvCggwbDfV/3JjrF/woJqsPp9xBFlb+iOE=",
+  "Source": "PassManager.WebAPI",
+  "BasePath": "_content/PassManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PassManager.WebAPI\\wwwroot",
+      "Source": "PassManager.WebAPI",
+      "ContentRoot": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\",
+      "BasePath": "_content/PassManager.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\swagger\\ui\\custom.css",
+      "SourceId": "PassManager.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\",
+      "BasePath": "_content/PassManager.WebAPI",
+      "RelativePath": "swagger/ui/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\swagger\\ui\\index.html",
+      "SourceId": "PassManager.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mvide\\source\\repos\\PasswordManager\\PassManager.Presentation\\wwwroot\\",
+      "BasePath": "_content/PassManager.WebAPI",
+      "RelativePath": "swagger/ui/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\ui\\index.html"
+    }
+  ]
+}

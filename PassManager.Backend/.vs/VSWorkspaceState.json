@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PassManager.Application",
+    "\\PassManager.Domain",
+    "\\PassManager.Infrastructure",
+    "\\PassManager.Presentation"
+  ],
+  "SelectedNode": "\\PassManager.Presentation\\PassManager.Backend.sln",
+  "PreviewInSolutionExplorer": false
+}
